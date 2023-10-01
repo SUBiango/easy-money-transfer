@@ -1,0 +1,13 @@
+.custom-table-container {
+    max-width: 540px; /* Set your desired maximum width */
+    margin: auto; /* Center the container on larger screens */
+}
+
+.btn {
+    width: 100%;
+}
+
+.btn:hover {
+    background-color: #D1E7DD;
+    color: black;
+}
