@@ -1,3 +1,12 @@
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color: #000;
+}
+
 .custom-table-container {
     max-width: 540px; /* Set your desired maximum width */
     margin: auto; /* Center the container on larger screens */
@@ -9,5 +18,4 @@
 
 .btn:hover {
     background-color: #D1E7DD;
-    color: black;
 }
