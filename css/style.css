@@ -3,9 +3,6 @@ a {
     color: #fff;
 }
 
-a:hover {
-    color: #000;
-}
 
 .custom-table-container {
     max-width: 540px; /* Set your desired maximum width */
@@ -17,5 +14,5 @@ a:hover {
 }
 
 .btn:hover {
-    background-color: #D1E7DD;
+    background-color: #454545;
 }
